@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center !important;
+}
+ul li {
+  list-style: none;
+}
+a,
+a:hover {
+  text-decoration: none !important;
+  color: black !important;
+  
+}
