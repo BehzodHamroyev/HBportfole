@@ -1,0 +1,41 @@
+
+
+.Testimonials5{
+  position: absolute;
+  border-radius: 50%;
+  top: 20%;
+  right: 30%;
+}
+.Testimonials6{
+  position: absolute;
+  border-radius: 50%;
+  top: 20%;
+  right: 50%;
+}
+.Testimonials2{
+  position: absolute;
+  border-radius: 50%;
+  top: 20%;
+  left: 30%;
+}
+.Testimonials3{
+  position: absolute;
+  border-radius: 50%;
+  top: 20%;
+  left: 30%;
+} 
+#root { height: 100% }
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}

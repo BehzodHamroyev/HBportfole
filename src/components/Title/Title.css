@@ -1,0 +1,15 @@
+.subTitle{
+    color:  #8643DC !important; 
+    font-size: 18px;
+    font-weight: 400;
+   ;
+    }
+.line{
+    background-color: #8643DC;
+    height: 2px;
+    width: 50px;
+}
+.title{
+    font-size: 36px;
+    font-weight: 700;
+}

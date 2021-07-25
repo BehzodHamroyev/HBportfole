@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Avatar from '../../avatar.svg';
+import Avatar from '../../img/avatar.svg';
 import Button from '../../components/Button';
 import './Home.css';
 export class Home extends Component {

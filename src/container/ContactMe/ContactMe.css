@@ -1,0 +1,7 @@
+.input{
+    border: none !important;
+    border-bottom: solid 0.3px gray !important;
+}
+.cursor{
+    cursor: pointer;
+}
