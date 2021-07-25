@@ -22,6 +22,10 @@ const data = [
     title: 'Blog',
     url: '#Blog',
   },
+  {
+    title: 'ContactMe',
+    url: '#ContactMe',
+  }
 ];
 export class Navbar extends Component {
   state = { show: true };

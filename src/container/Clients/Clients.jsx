@@ -17,7 +17,7 @@ const data = [
 export class Clients extends Component {
   render() {
     return (
-      <div className="Clients py-5 container">
+      <div id="Clients" className="Clients py-5 container">
       <Fade bottom>  <Title subTitle="Clients" title="Big Deal With" /></Fade>
       <Fade bottom>  <div className="row m-0 container d-flex justify-content-around">
        {data.map((v,i)=>{

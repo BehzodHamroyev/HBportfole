@@ -8,7 +8,7 @@ import Fade from 'react-reveal/Fade';
 export class Footer extends Component {
   render() {
     return (
-      <div className="d-flex py-5 footer flex-column row m-0 justify-content-center align-items-center">
+      <div id="Footer" className="d-flex py-5 footer flex-column row m-0 justify-content-center align-items-center">
     <Fade bottom>   <div className="col-4">
        <h1>Let’s be Friends</h1>
         <div className="icon mt-4 d-flex justify-content-around align-items-center">

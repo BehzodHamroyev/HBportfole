@@ -9,7 +9,7 @@ import { Form, FormGroup, Input } from 'reactstrap';
 export class ContactMe extends Component {
   render() {
     return (
-      <div className="container py-5">
+      <div id="ContactMe" className="container py-5">
        <Fade bottom> <div className="d-flex justify-content-between align-items-start row m-0">
           <div className=" col-md-6 col-12 text-justify">
             <Title

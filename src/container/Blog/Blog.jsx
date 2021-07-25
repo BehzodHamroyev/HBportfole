@@ -21,7 +21,7 @@ const data = [
 export class Blog extends Component {
   render() {
     return (
-      <div className="container py-5">
+      <div id="Blog" className="container py-5">
     <Fade bottom>
     <div className="row m-0">
             <div className="col-12 col-md-2 mt-3">
