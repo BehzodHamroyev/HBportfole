@@ -12,9 +12,9 @@ export class Footer extends Component {
     <Fade bottom>   <div className="col-4">
        <h1>Let’s be Friends</h1>
         <div className="icon mt-4 d-flex justify-content-around align-items-center">
-          <img src={Footer1} alt="" />
-          <img src={Footer2} alt="" />
-          <img src={Footer3} alt="" />
+          <img className="mx-2" src={Footer1} alt="" />
+          <img className="mx-2" src={Footer2} alt="" />
+          <img className="mx-2" src={Footer3} alt="" />
         </div>
        </div>
       </Fade>

@@ -8,11 +8,11 @@ import clientImg4 from '../../img/client4.svg';
 import clientImg5 from '../../img/client5.svg';
 import Fade from 'react-reveal/Fade';
 const data = [
-  { img: clientImg1, color: 'white', clientName: 'Slack' },
-  { img: clientImg2, color: 'white', clientName: 'Medium' },
-  { img: clientImg3, color: 'white', clientName: 'Microsoft' },
-  { img: clientImg4, color: 'white', clientName: 'Zeplin' },
-  { img: clientImg5, color: 'white', clientName: 'Shopify' }
+  { img: clientImg1, color: '#FFF6FA', clientName: 'Slack' },
+  { img: clientImg2, color: '#EDFFF5', clientName: 'Medium' },
+  { img: clientImg3, color: '#F5FCFF', clientName: 'Microsoft' },
+  { img: clientImg4, color: '#FFFBF2', clientName: 'Zeplin' },
+  { img: clientImg5, color: '#F4FFED', clientName: 'Shopify' }
 ];
 export class Clients extends Component {
   render() {
